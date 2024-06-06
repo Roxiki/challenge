@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f7ed4da-2f97-47c2-98c6-757f2e0e6179" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/roxiki/app/IniciarApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/roxiki/app/MenuPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/roxiki/app/TerminarApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/roxiki/conversorMonedas/Divisas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/roxiki/conversorMonedas/DivisasCalculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/roxiki/conversorMonedas/conexionApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/exclamacion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img/nene.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js.script" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hUK5sXzgdSAkzVxo9kUEK93dnE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.IniciarApp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/gson-2.10.1.jar",
+    "onboarding.tips.debug.path": "C:/challenge/conversor-moneda/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f7ed4da-2f97-47c2-98c6-757f2e0e6179" name="Changes" comment="" />
+      <created>1717643037107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717643037107</updated>
+    </task>
+    <servers />
+  </component>
+</project>
